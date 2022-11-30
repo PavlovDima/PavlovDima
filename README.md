@@ -1,5 +1,7 @@
 ### Hi there 👋 My  name is [Dmitry](https://www.linkedin.com/in/pavlovdima/) and I'm Software QA Manual and Automation Engineer
 
+![](https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif)
+
 <!--
 **PavlovDima/PavlovDima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
